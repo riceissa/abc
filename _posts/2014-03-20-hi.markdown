@@ -1,5 +1,6 @@
 ---
 title: testing code and blockquote
+layout: default
 ---
 
 hello world.
