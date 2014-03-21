@@ -1,0 +1,15 @@
+---
+title: testing code and blockquote
+---
+
+hello world.
+
+> this is a quote.
+> this continues the same quote, on the same line
+
+hello. here's some python:
+
+    def func(x):
+        pass
+
+not code anymore
