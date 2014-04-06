@@ -61,6 +61,8 @@ https://www.quora.com/The-College-and-University-Experience/What-is-some-advice-
     as freshmen gain experience in
     research?](https://www.quora.com/How-can-high-school-students-entering-the-University-of-Washington-as-freshmen-gain-experience-in-research)
 
+- [How can an undergraduate at the University of Washington find research?](https://www.quora.com/How-can-an-undergraduate-at-the-University-of-Washington-find-research)
+
 ### Getting the most out of UW
 
 - [How does one sample graduate level courses at the University of Washington?](https://www.quora.com/How-does-one-sample-graduate-level-courses-at-the-University-of-Washington)
@@ -101,12 +103,17 @@ https://www.quora.com/The-College-and-University-Experience/What-is-some-advice-
     make important connections if you don't attend a top
     university?](https://www.quora.com/Colleges-and-Universities/How-can-you-make-important-connections-if-you-dont-attend-a-top-university/answer/Alex-K-Chen)
 
+- [If Alex K. Chen was transported back in time, with all of his current memories, how would he spend his time?](https://www.quora.com/If-Alex-K-Chen-was-transported-back-in-time-with-all-of-his-current-memories-how-would-he-spend-his-time)
+
 ### UW Honors
 
 -   For a comparison of UW Honors to top schools, see the Quora question
     “[How does the University of Washington honors program undergraduate student quality compare with that of top schools like MIT and Caltech?](https://www.quora.com/How-does-the-University-of-Washington-honors-program-undergraduate-student-quality-compare-with-that-of-top-schools-like-MIT-and-Caltech)”
 
 - [What is the Honors program at the University of Washington like? Is it worth joining?](https://www.quora.com/What-is-the-Honors-program-at-the-University-of-Washington-like-Is-it-worth-joining)
+
+- There are many examples of honors portfolios available [here](https://sites.google.com/a/uw.edu/the-honors-portfolio/portfolio-examples).
+You may need a UW account to see some of them, though.
 
 ### Computer science and engineering (CSE)
 
@@ -129,11 +136,21 @@ In particular, Alex K. Chen says:
 
    > Personally, I think the ideal combination would be to major in CS at UW, take the grad-lvl courses (as well as the computational courses) in the Atmospheric Science department, and then do Atmospheric Science research at UW. That way you get an undergrad degree from one of UW's best undergrad programs, and research in a department where you can get more personal attention than almost any other department in the entire school.
 
+- [Department of atmospheric sceinces: unit self-study](https://www.washington.edu/about/accreditation/reviews/atmos-2011-1.pdf)
+
+- [What are some good resources for the earth, atmospheric, and planetary sciences?](https://www.quora.com/What-are-some-good-resources-for-the-earth-atmospheric-and-planetary-sciences)
+
+- [What are some good summer (or winter) programs/schools for graduate students in the earth/atmospheric/planetary sciences or in astrophysics?](https://www.quora.com/What-are-some-good-summer-or-winter-programs-schools-for-graduate-students-in-the-earth-atmospheric-planetary-sciences-or-in-astrophysics)
+
+- This is slightly unrelated, but: [What are some good resources on astrobiology?](https://www.quora.com/What-are-some-good-resources-on-astrobiology) may be useful for those considering e.g. exoplanetary atmospheres.
+
 ### Physics/Astronomy
 
 - [What is it like to study Physics at the University of Washington?](https://www.quora.com/University-of-Washington/What-is-it-like-to-study-Physics-at-the-University-of-Washington)
 
 - [What is it like to study Astronomy at the University of Washington?](https://www.quora.com/What-is-it-like-to-study-Astronomy-at-the-University-of-Washington)
+
+- [Alex K. Chen’s answer to What are some good websites and resources to learn about astronomy/astrophysics?](https://www.quora.com/What-are-some-good-websites-and-resources-to-learn-about-astronomy-astrophysics/answers/604575)
 
 ### Math
 
