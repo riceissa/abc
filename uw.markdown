@@ -22,9 +22,9 @@ Please let me know if there are any other good resources/if there are mistakes h
 
 - [Is it worth one's while to attend the Admitted Student Previews (undergrad) at the University of Washington?](https://www.quora.com/University-of-Washington/Is-it-worth-ones-while-to-attend-the-Admitted-Student-Previews-undergrad-at-the-University-of-Washington)
 
-- [Alex K. Chen’s answer to: What is the biggest regret of your life?](https://www.quora.com/What-is-the-biggest-regret-of-your-life/answer/Alex-K-Chen)
+- [Alex K. Chen’s answer to What is the biggest regret of your life?](https://www.quora.com/What-is-the-biggest-regret-of-your-life/answer/Alex-K-Chen)
 
-> Not taking better advantage of the INCREDIBLE UW Atmospheric Science program when I was an undergrad, and spending too much time in majors [...] that don't give a crap about their undergrads. :( It has so few undergrads that you can easily take grad lvl courses and basically get treated like a grad student.
+  > Not taking better advantage of the INCREDIBLE UW Atmospheric Science program when I was an undergrad, and spending too much time in majors [...] that don't give a crap about their undergrads. :( It has so few undergrads that you can easily take grad lvl courses and basically get treated like a grad student.
 
 https://www.washington.edu/about/accreditation/noflyouts.html
 
