@@ -5,9 +5,14 @@ color: #ffffff}
 body {
     font-family: serif;
 }
-pre code, blockquote {
+pre code{
     display: block;
-    padding: 8px;
+    padding: 10px;
+}
+
+blockquote {
+    display: block;
+    padding: 4px;
 }
 
 blockquote {
