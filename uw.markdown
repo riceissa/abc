@@ -14,39 +14,63 @@ Please let me know if there are any other good resources/if there are mistakes h
 
 ### General
 
-[Alex K. Chen’s review of the University of
-Washington](https://www.quora.com/Reviews-of-University-of-Washington/review/Alex-K-Chen).
-[What are the best courses at the University of
-Washington?](https://www.quora.com/University-of-Washington/What-are-the-best-courses-at-the-University-of-Washington)
-https://www.quora.com/University-of-Washington/Is-it-allowed-to-stay-overnight-in-one-of-the-Odegaard-Undergraduate-Librarys-study-rooms-If-so-how-common-is-this-practice
-https://www.quora.com/University-of-Washington/Is-it-worth-ones-while-to-attend-the-Admitted-Student-Previews-undergrad-at-the-University-of-Washington
-https://www.quora.com/What-is-the-biggest-regret-of-your-life/answer/Alex-K-Chen
+- [Alex K. Chen’s review of the University of Washington](https://www.quora.com/Reviews-of-University-of-Washington/review/Alex-K-Chen).
+
+- [What are the best courses at the University of Washington?](https://www.quora.com/University-of-Washington/What-are-the-best-courses-at-the-University-of-Washington)
+
+- [Is it allowed to stay overnight in one of the Odegaard Undergraduate Library's study rooms? If so, how common is this practice?](https://www.quora.com/University-of-Washington/Is-it-allowed-to-stay-overnight-in-one-of-the-Odegaard-Undergraduate-Librarys-study-rooms-If-so-how-common-is-this-practice)
+
+- [Is it worth one's while to attend the Admitted Student Previews (undergrad) at the University of Washington?](https://www.quora.com/University-of-Washington/Is-it-worth-ones-while-to-attend-the-Admitted-Student-Previews-undergrad-at-the-University-of-Washington)
+
+- [Alex K. Chen’s answer to: What is the biggest regret of your life?](https://www.quora.com/What-is-the-biggest-regret-of-your-life/answer/Alex-K-Chen)
+
+> Not taking better advantage of the INCREDIBLE UW Atmospheric Science program when I was an undergrad, and spending too much time in majors [...] that don't give a crap about their undergrads. :( It has so few undergrads that you can easily take grad lvl courses and basically get treated like a grad student.
+
 https://www.washington.edu/about/accreditation/noflyouts.html
+
 https://www.quora.com/University-of-Washington/What-is-it-like-to-study-Physics-at-the-University-of-Washington
+
 https://www.quora.com/University-of-Washington/What-happens-if-a-library-book-is-overdue
+
 https://www.quora.com/What-is-it-like-to-attend-University-of-Washington-in-Seattle
+
 https://www.quora.com/How-do-I-self-study-a-lot-of-subjects-efficiently-like-Alex-K-Chen
+
 https://www.quora.com/University-of-Washington/Why-is-applied-math-at-the-University-of-Washington-top-10-in-the-nation-while-pure-math-is-not-even-close-to-that
+
 https://www.quora.com/Can-non-majors-take-a-lot-of-math-courses-at-the-University-of-Washington
+
 https://www.quora.com/What-majors-at-the-University-of-Washington-allow-non-majors-to-take-most-or-all-of-their-courses
+
 https://www.quora.com/Self-Improvement/What-advice-would-you-tell-to-your-12-year-old-self-if-you-could-travel-back-in-time/answer/Alex-K-Chen
+
 https://www.quora.com/Alex-K-Chen-topic/What-does-Alex-K-Chen-think-of-the-field-of-Computer-Science
+
 https://www.quora.com/The-College-and-University-Experience/If-you-could-do-undergrad-over-again-what-would-you-major-in/answer/Alex-K-Chen
+
 https://www.quora.com/Academia/What-does-Alex-K-Chen-have-against-state-schools
+
 https://www.quora.com/What-are-the-best-colleges-and-universities-for-INTPs-in-the-United-States
+
 https://www.quora.com/How-should-a-student-independently-studying-math-get-help-on-exercises
+
 https://www.quora.com/Should-I-feel-bad-for-going-to-a-mediocre-college/answer/Alex-K-Chen
+
 (see especially the comments to the answer)
+
 https://www.quora.com/If-Alex-K-Chen-was-transported-back-in-time-with-all-of-his-current-memories-how-would-he-spend-his-time
+
 https://www.quora.com/The-College-and-University-Experience/What-is-some-advice-that-most-college-students-are-not-ever-likely-to-hear
 
-### Doing Research
+### Doing research
 
 -   [How can high school students entering the University of Washington
     as freshmen gain experience in
     research?](https://www.quora.com/How-can-high-school-students-entering-the-University-of-Washington-as-freshmen-gain-experience-in-research)
 
 ### Getting the most out of UW
+
+- [How does one sample graduate level courses at the University of Washington?](https://www.quora.com/How-does-one-sample-graduate-level-courses-at-the-University-of-Washington)
 
 ### Networking
 
