@@ -11,7 +11,7 @@ pre code{
 }
 
 blockquote {
-    display: block;
+    /*display: block;*/
     padding: 4px;
 }
 
