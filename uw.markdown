@@ -69,6 +69,8 @@ https://www.quora.com/The-College-and-University-Experience/What-is-some-advice-
 
 - [What do UW students wish they had known when they were freshmen?](https://www.quora.com/What-do-UW-students-wish-they-had-known-when-they-were-freshmen)
 
+- [How can I make the most of my college years?](https://www.quora.com/How-can-I-make-the-most-of-my-college-years)
+
 - [How does one sample graduate level courses at the University of Washington?](https://www.quora.com/How-does-one-sample-graduate-level-courses-at-the-University-of-Washington)
 
     - [What does it mean to add-code at UW?](https://www.quora.com/What-does-it-mean-to-add-code-at-UW)
