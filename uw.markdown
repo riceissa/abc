@@ -38,7 +38,7 @@ Find these [here](https://www.washington.edu/about/accreditation/noflyouts.html)
 
 - [What are the best colleges and universities for INTPs in the United States?](https://www.quora.com/What-are-the-best-colleges-and-universities-for-INTPs-in-the-United-States)
 
-
+- [How do I recruit people to join Quora at the University of Washington?](https://www.quora.com/How-do-I-recruit-people-to-join-Quora-at-the-University-of-Washington) (all the answers seem good)
 
 
 
@@ -103,6 +103,10 @@ https://www.quora.com/The-College-and-University-Experience/What-is-some-advice-
 
 -   [How does one meet new people at
     UWashington?](https://www.quora.com/University-of-Washington/How-does-one-meet-new-people-at-UWashington)
+
+    - Consider going to a Quora meet-up.
+For the ones in Seattle, see [this page](http://seattlequorameetups.quora.com/).
+
 -   [Alex K. Chen's answer to: Colleges and Universities: How can you
     make important connections if you don't attend a top
     university?](https://www.quora.com/Colleges-and-Universities/How-can-you-make-important-connections-if-you-dont-attend-a-top-university/answer/Alex-K-Chen)
@@ -142,9 +146,15 @@ In particular, Alex K. Chen says:
 
 - [Department of atmospheric sceinces: unit self-study](https://www.washington.edu/about/accreditation/reviews/atmos-2011-1.pdf)
 
+- [What are some downsides to doing research in atmospheric science?](https://www.quora.com/What-are-some-downsides-to-doing-research-in-atmospheric-science) (Alex K. Chen’s and Reena Joubert’s answers are especially good.)
+
 - [What are some good resources for the earth, atmospheric, and planetary sciences?](https://www.quora.com/What-are-some-good-resources-for-the-earth-atmospheric-and-planetary-sciences)
 
 - [What are some good summer (or winter) programs/schools for graduate students in the earth/atmospheric/planetary sciences or in astrophysics?](https://www.quora.com/What-are-some-good-summer-or-winter-programs-schools-for-graduate-students-in-the-earth-atmospheric-planetary-sciences-or-in-astrophysics)
+
+- [Atmospheric Science: What are the biggest unknowns in climate science?](https://www.quora.com/Atmospheric-Science/What-are-the-biggest-unknowns-in-climate-science) (See especially Reena Joubert’s answer)
+
+- [How can someone start excelling in climate science while still in high school?](https://www.quora.com/How-can-someone-start-excelling-in-climate-science-while-still-in-high-school) (again, see Reena Joubert’s answer)
 
 - This is slightly unrelated, but: [What are some good resources on astrobiology?](https://www.quora.com/What-are-some-good-resources-on-astrobiology) may be useful for those considering e.g. exoplanetary atmospheres.
 
