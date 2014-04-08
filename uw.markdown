@@ -55,6 +55,8 @@ https://www.quora.com/If-Alex-K-Chen-was-transported-back-in-time-with-all-of-hi
 
 https://www.quora.com/The-College-and-University-Experience/What-is-some-advice-that-most-college-students-are-not-ever-likely-to-hear
 
+- [College freshmen memes](http://www.quickmeme.com/College-Freshman)
+
 ### Doing research
 
 -   [How can high school students entering the University of Washington
@@ -64,6 +66,8 @@ https://www.quora.com/The-College-and-University-Experience/What-is-some-advice-
 - [How can an undergraduate at the University of Washington find research?](https://www.quora.com/How-can-an-undergraduate-at-the-University-of-Washington-find-research)
 
 ### Getting the most out of UW
+
+- [What do UW students wish they had known when they were freshmen?](https://www.quora.com/What-do-UW-students-wish-they-had-known-when-they-were-freshmen)
 
 - [How does one sample graduate level courses at the University of Washington?](https://www.quora.com/How-does-one-sample-graduate-level-courses-at-the-University-of-Washington)
 
