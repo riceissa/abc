@@ -152,6 +152,8 @@ In particular, Alex K. Chen says:
 
 - [What are some good summer (or winter) programs/schools for graduate students in the earth/atmospheric/planetary sciences or in astrophysics?](https://www.quora.com/What-are-some-good-summer-or-winter-programs-schools-for-graduate-students-in-the-earth-atmospheric-planetary-sciences-or-in-astrophysics)
 
+- See Edwin Kite’s answer here to see why people in the Earth sciences are more willing to share data: [Are scientists more willing to share data in some fields than in other fields?](https://www.quora.com/Are-scientists-more-willing-to-share-data-in-some-fields-than-in-other-fields). The [article](http://www.wired.com/2009/12/15943/) Kite links to is intriguing.
+
 - [Atmospheric Science: What are the biggest unknowns in climate science?](https://www.quora.com/Atmospheric-Science/What-are-the-biggest-unknowns-in-climate-science) (See especially Reena Joubert’s answer)
 
 - [How can someone start excelling in climate science while still in high school?](https://www.quora.com/How-can-someone-start-excelling-in-climate-science-while-still-in-high-school) (again, see Reena Joubert’s answer)
