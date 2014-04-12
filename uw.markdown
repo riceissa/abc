@@ -65,6 +65,8 @@ https://www.quora.com/The-College-and-University-Experience/What-is-some-advice-
 
 - [How can an undergraduate at the University of Washington find research?](https://www.quora.com/How-can-an-undergraduate-at-the-University-of-Washington-find-research)
 
+- [What are the current exciting research projects at the University of Washington?](https://www.quora.com/What-are-the-current-exciting-research-projects-at-the-University-of-Washington)
+
 ### Getting the most out of UW
 
 - [What do UW students wish they had known when they were freshmen?](https://www.quora.com/What-do-UW-students-wish-they-had-known-when-they-were-freshmen)
@@ -150,6 +152,8 @@ In particular, Alex K. Chen says:
 
 - [What are some downsides to doing research in atmospheric science?](https://www.quora.com/What-are-some-downsides-to-doing-research-in-atmospheric-science) (Alex K. Chen’s and Reena Joubert’s answers are especially good.)
 
+- [What should someone major in if they want to become a climate scientist?](https://www.quora.com/Atmospheric-Science/What-should-someone-major-in-if-they-want-to-become-a-climate-scientist) (No answers at the time of writing, unfortunately.)
+
 - [What are some good resources for the earth, atmospheric, and planetary sciences?](https://www.quora.com/What-are-some-good-resources-for-the-earth-atmospheric-and-planetary-sciences)
 
 - [What are some good summer (or winter) programs/schools for graduate students in the earth/atmospheric/planetary sciences or in astrophysics?](https://www.quora.com/What-are-some-good-summer-or-winter-programs-schools-for-graduate-students-in-the-earth-atmospheric-planetary-sciences-or-in-astrophysics)
@@ -159,6 +163,8 @@ In particular, Alex K. Chen says:
 - [Atmospheric Science: What are the biggest unknowns in climate science?](https://www.quora.com/Atmospheric-Science/What-are-the-biggest-unknowns-in-climate-science) (See especially Reena Joubert’s answer)
 
 - [How can someone start excelling in climate science while still in high school?](https://www.quora.com/How-can-someone-start-excelling-in-climate-science-while-still-in-high-school) (again, see Reena Joubert’s answer)
+
+- For applying to graduate schools: [What are the best universities for studying atmospheric science?](https://www.quora.com/What-are-the-best-universities-for-studying-atmospheric-science)
 
 - This is slightly unrelated, but: [What are some good resources on astrobiology?](https://www.quora.com/What-are-some-good-resources-on-astrobiology) may be useful for those considering e.g. exoplanetary atmospheres.
 
