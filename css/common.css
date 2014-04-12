@@ -12,6 +12,9 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
+a:link {color: #268bd2;}
+a:visited {color:#6c71c4;}
+
 pre code{
     display: block;
     padding: 10px;
