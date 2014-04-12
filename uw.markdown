@@ -24,7 +24,7 @@ Note that on Quora, adding <code>/?share=1</code> to the end of the URL allows y
 
 - [Is it allowed to stay overnight in one of the Odegaard Undergraduate Library's study rooms? If so, how common is this practice?](https://www.quora.com/University-of-Washington/Is-it-allowed-to-stay-overnight-in-one-of-the-Odegaard-Undergraduate-Librarys-study-rooms-If-so-how-common-is-this-practice)
 
-- [Is it worth one's while to attend the Admitted Student Previews (undergrad) at the University of Washington?](https://www.quora.com/University-of-Washington/Is-it-worth-ones-while-to-attend-the-Admitted-Student-Previews-undergrad-at-the-University-of-Washington)
+- [Is it worthwhile to attend the Admitted Student Previews (undergrad) at the University of Washington?](https://www.quora.com/University-of-Washington/Is-it-worthwhile-to-attend-the-Admitted-Student-Previews-undergrad-at-the-University-of-Washington)
 
 - [Alex K. Chen’s answer to What is the biggest regret of your life?](https://www.quora.com/What-is-the-biggest-regret-of-your-life/answer/Alex-K-Chen)
 
