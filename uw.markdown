@@ -11,7 +11,7 @@ Please let me know if there are any other good resources/if there are mistakes h
 
 Note that on Quora, adding <code>/?share=1</code> to the end of the URL allows you to view *all* answers, not just the first one.
 
-## [Other lists of resources](http://en.wikipedia.org/wiki/List_of_lists_of_lists)
+## Other lists of resources
 
 -   Jennifer Apacible has a [collection of Quora questions about
     UW](https://jenpacollections.quora.com/University-of-Washington).
