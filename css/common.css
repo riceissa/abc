@@ -12,6 +12,8 @@ body {
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
   width: 960px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 a:link {color: #268bd2;}
