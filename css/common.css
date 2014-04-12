@@ -11,6 +11,7 @@ body {
   font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
+  width: 960px;
 }
 
 a:link {color: #268bd2;}
