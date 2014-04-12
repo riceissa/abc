@@ -43,8 +43,6 @@ Find these [here](https://www.washington.edu/about/accreditation/noflyouts.html)
 
 - [How do I recruit people to join Quora at the University of Washington?](https://www.quora.com/How-do-I-recruit-people-to-join-Quora-at-the-University-of-Washington) (all the answers seem good)
 
-
-
 - [Alex K. Chen’s answer to Self-Improvement: What advice would you tell to your 12-year-old self if you could travel back in time?](https://www.quora.com/Self-Improvement/What-advice-would-you-tell-to-your-12-year-old-self-if-you-could-travel-back-in-time/answer/Alex-K-Chen)
 
 
@@ -58,7 +56,8 @@ Find these [here](https://www.washington.edu/about/accreditation/noflyouts.html)
 
 - [What is some advice that most college students are not ever likely to hear?](https://www.quora.com/The-College-and-University-Experience/What-is-some-advice-that-most-college-students-are-not-ever-likely-to-hear)
 
-- [College freshmen memes](http://www.quickmeme.com/College-Freshman)
+- [College freshmen meme](http://www.quickmeme.com/College-Freshman).
+See also the [Lazy College Senior meme](http://www.quickmeme.com/Lazy-College-Senior/).
 
 ## Doing research
 
@@ -92,13 +91,10 @@ Find these [here](https://www.washington.edu/about/accreditation/noflyouts.html)
 
 ## Networking
 
--   See Jonah and Vipul’s “[Using Facebook
-    effectively](http://info.cognitomentoring.org/wiki/Using_Facebook_effectively)”
-    for reasons why Facebook might be useful in college.
--   [Alex K. Chen’s answer to: People Skills: What is the secret to
-    finding the right
-    peers?](https://www.quora.com/People-Skills/What-is-the-secret-to-finding-the-right-peers/answer/Alex-K-Chen)
-    Alex says, in part:
+-   See Jonah and Vipul’s “[Using Facebook effectively](http://info.cognitomentoring.org/wiki/Using_Facebook_effectively)” for reasons why Facebook might be useful in college.
+
+-   [Alex K. Chen’s answer to: People Skills: What is the secret to finding the right peers?](https://www.quora.com/People-Skills/What-is-the-secret-to-finding-the-right-peers/answer/Alex-K-Chen)
+Alex says, in part:
 
     > Make yourself **extremely** stalkable and Googleable (and clearly
     > mark that you're open to emails and random Facebook friend
@@ -112,7 +108,7 @@ Find these [here](https://www.washington.edu/about/accreditation/noflyouts.html)
     UWashington?](https://www.quora.com/University-of-Washington/How-does-one-meet-new-people-at-UWashington)
 
     - Consider going to a Quora meet-up.
-For the ones in Seattle, see [this page](http://seattlequorameetups.quora.com/).
+For the ones in Seattle, see [this page](http://seattlequorameetups.quora.com/). (This blog is currently closed to the public, but if you contact me and you live in the Seattle area, I can probably get you in.)
 
 -   [Alex K. Chen's answer to: Colleges and Universities: How can you
     make important connections if you don't attend a top
@@ -132,12 +128,9 @@ You may need a UW account to see some of them, though.
 
 ## Computer science and engineering (CSE)
 
--   [How hard is it to get into the CSE program at University of
-    Washington?](https://www.quora.com/How-hard-is-it-to-get-into-the-CSE-program-at-University-of-Washington)
--   [Jennifer Apacible's answer to University of Washington: What does
-    it take to be a direct admit to the computer science program at the
-    University of
-    Washington?](https://www.quora.com/University-of-Washington/What-does-it-take-to-be-a-direct-admit-to-the-computer-science-program-at-the-University-of-Washington/answer/Jennifer-Apacible-1)
+-   [How hard is it to get into the CSE program at University of Washington?](https://www.quora.com/How-hard-is-it-to-get-into-the-CSE-program-at-University-of-Washington)
+
+-   [Jennifer Apacible's answer to University of Washington: What does it take to be a direct admit to the computer science program at the University of Washington?](https://www.quora.com/University-of-Washington/What-does-it-take-to-be-a-direct-admit-to-the-computer-science-program-at-the-University-of-Washington/answer/Jennifer-Apacible-1)
 
 - [As a non-major, how can I be a bigger part of the UW CSE community?](https://www.quora.com/As-a-non-major-how-can-I-be-a-bigger-part-of-the-UW-CSE-community)
 
@@ -161,7 +154,8 @@ In particular, Alex K. Chen says:
 
 - [What are some good summer (or winter) programs/schools for graduate students in the earth/atmospheric/planetary sciences or in astrophysics?](https://www.quora.com/What-are-some-good-summer-or-winter-programs-schools-for-graduate-students-in-the-earth-atmospheric-planetary-sciences-or-in-astrophysics)
 
-- See Edwin Kite’s answer here to see why people in the Earth sciences are more willing to share data: [Are scientists more willing to share data in some fields than in other fields?](https://www.quora.com/Are-scientists-more-willing-to-share-data-in-some-fields-than-in-other-fields). The [article](http://www.wired.com/2009/12/15943/) Kite links to is intriguing.
+- See Edwin Kite’s answer here to see why people in the Earth sciences are more willing to share data: [Are scientists more willing to share data in some fields than in other fields?](https://www.quora.com/Are-scientists-more-willing-to-share-data-in-some-fields-than-in-other-fields).
+The [article](http://www.wired.com/2009/12/15943/) Kite links to is intriguing.
 
 - [Atmospheric Science: What are the biggest unknowns in climate science?](https://www.quora.com/Atmospheric-Science/What-are-the-biggest-unknowns-in-climate-science) (See especially Reena Joubert’s answer)
 
