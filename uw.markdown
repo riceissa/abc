@@ -7,7 +7,8 @@ layout: default
 A collection of information about the University of Washington (and also
 college in general).
 Currently it’s [too easy to lose things on Quora](https://www.quora.com/How-do-people-find-posts-on-Quora-that-theyve-written-but-completely-forgotten-about), so I am posting here.
-Please let me know if there are any other good resources/if there are mistakes here.
+Please let me know if there are any other good resources or if there are mistakes here.
+(You can leave a comment [here](http://riceissa.wordpress.com/uw/) or email me at the reverse of moc.liamg@assiecir.)
 
 Note that on Quora, adding <code>/?share=1</code> to the end of the URL allows you to view *all* answers, not just the first one.
 
@@ -44,18 +45,18 @@ Find these [here](https://www.washington.edu/about/accreditation/noflyouts.html)
 
 
 
-https://www.quora.com/Self-Improvement/What-advice-would-you-tell-to-your-12-year-old-self-if-you-could-travel-back-in-time/answer/Alex-K-Chen
+- [Alex K. Chen’s answer to Self-Improvement: What advice would you tell to your 12-year-old self if you could travel back in time?](https://www.quora.com/Self-Improvement/What-advice-would-you-tell-to-your-12-year-old-self-if-you-could-travel-back-in-time/answer/Alex-K-Chen)
 
 
-https://www.quora.com/The-College-and-University-Experience/If-you-could-do-undergrad-over-again-what-would-you-major-in/answer/Alex-K-Chen
+- [Alex K. Chen’s answer to The College and University Experience: If you could do undergrad over again, what would you major in?](https://www.quora.com/The-College-and-University-Experience/If-you-could-do-undergrad-over-again-what-would-you-major-in/answer/Alex-K-Chen)
 
-https://www.quora.com/Academia/What-does-Alex-K-Chen-have-against-state-schools
+- [What does Alex K. Chen have against state schools?](https://www.quora.com/Academia/What-does-Alex-K-Chen-have-against-state-schools)
 
 - [Alex K. Chen’s answer to Should I feel bad for going to a mediocre college?](https://www.quora.com/Should-I-feel-bad-for-going-to-a-mediocre-college/answer/Alex-K-Chen) (see especially the comments to the answer)
 
-https://www.quora.com/If-Alex-K-Chen-was-transported-back-in-time-with-all-of-his-current-memories-how-would-he-spend-his-time
+- [If Alex K. Chen was transported back in time, with all of his current memories, how would he spend his time?](https://www.quora.com/If-Alex-K-Chen-was-transported-back-in-time-with-all-of-his-current-memories-how-would-he-spend-his-time)
 
-https://www.quora.com/The-College-and-University-Experience/What-is-some-advice-that-most-college-students-are-not-ever-likely-to-hear
+- [What is some advice that most college students are not ever likely to hear?](https://www.quora.com/The-College-and-University-Experience/What-is-some-advice-that-most-college-students-are-not-ever-likely-to-hear)
 
 - [College freshmen memes](http://www.quickmeme.com/College-Freshman)
 
