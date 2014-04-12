@@ -10,7 +10,7 @@ Currently it’s [too easy to lose things on Quora](https://www.quora.com/How-do
 Please let me know if there are any other good resources or if there are mistakes here.
 (You can leave a comment [here](http://riceissa.wordpress.com/uw/) or email me at the reverse of moc.liamg@assiecir.)
 
-Note that on Quora, adding <code>/?share=1</code> to the end of the URL allows you to view *all* answers, not just the first one.
+Note that even if you’re not logged in on Quora, adding <code>/?share=1</code> to the end of the URL allows you to view *all* answers, not just the first one.
 
 ## Other lists of resources
 
