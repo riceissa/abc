@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# Resources for the University of Washington
+
 A collection of information about the University of Washington (and also
 college in general).
 Currently it’s [too easy to lose things on Quora](https://www.quora.com/How-do-people-find-posts-on-Quora-that-theyve-written-but-completely-forgotten-about), so I am posting here.
@@ -9,12 +11,12 @@ Please let me know if there are any other good resources/if there are mistakes h
 
 Note that on Quora, adding <code>/?share=1</code> to the end of the URL allows you to view *all* answers, not just the first one.
 
-### [Other lists of resources](http://en.wikipedia.org/wiki/List_of_lists_of_lists)
+## [Other lists of resources](http://en.wikipedia.org/wiki/List_of_lists_of_lists)
 
 -   Jennifer Apacible has a [collection of Quora questions about
     UW](https://jenpacollections.quora.com/University-of-Washington).
 
-### General
+## General
 
 - [Alex K. Chen’s review of the University of Washington](https://www.quora.com/Reviews-of-University-of-Washington/review/Alex-K-Chen).
 
@@ -57,7 +59,7 @@ https://www.quora.com/The-College-and-University-Experience/What-is-some-advice-
 
 - [College freshmen memes](http://www.quickmeme.com/College-Freshman)
 
-### Doing research
+## Doing research
 
 -   [How can high school students entering the University of Washington
     as freshmen gain experience in
@@ -67,7 +69,7 @@ https://www.quora.com/The-College-and-University-Experience/What-is-some-advice-
 
 - [What are the current exciting research projects at the University of Washington?](https://www.quora.com/What-are-the-current-exciting-research-projects-at-the-University-of-Washington)
 
-### Getting the most out of UW
+## Getting the most out of UW
 
 - [What do UW students wish they had known when they were freshmen?](https://www.quora.com/What-do-UW-students-wish-they-had-known-when-they-were-freshmen)
 
@@ -87,7 +89,7 @@ https://www.quora.com/The-College-and-University-Experience/What-is-some-advice-
 
 - [Alex K. Chen’s answer to What subjects should everyone be familiar with?](https://www.quora.com/What-subjects-should-everyone-be-familiar-with/answer/Alex-K-Chen)
 
-### Networking
+## Networking
 
 -   See Jonah and Vipul’s “[Using Facebook
     effectively](http://info.cognitomentoring.org/wiki/Using_Facebook_effectively)”
@@ -117,7 +119,7 @@ For the ones in Seattle, see [this page](http://seattlequorameetups.quora.com/).
 
 - [If Alex K. Chen was transported back in time, with all of his current memories, how would he spend his time?](https://www.quora.com/If-Alex-K-Chen-was-transported-back-in-time-with-all-of-his-current-memories-how-would-he-spend-his-time)
 
-### UW Honors
+## UW Honors
 
 -   For a comparison of UW Honors to top schools, see the Quora question
     “[How does the University of Washington honors program undergraduate student quality compare with that of top schools like MIT and Caltech?](https://www.quora.com/How-does-the-University-of-Washington-honors-program-undergraduate-student-quality-compare-with-that-of-top-schools-like-MIT-and-Caltech)”
@@ -127,7 +129,7 @@ For the ones in Seattle, see [this page](http://seattlequorameetups.quora.com/).
 - There are many examples of honors portfolios available [here](https://sites.google.com/a/uw.edu/the-honors-portfolio/portfolio-examples).
 You may need a UW account to see some of them, though.
 
-### Computer science and engineering (CSE)
+## Computer science and engineering (CSE)
 
 -   [How hard is it to get into the CSE program at University of
     Washington?](https://www.quora.com/How-hard-is-it-to-get-into-the-CSE-program-at-University-of-Washington)
@@ -141,7 +143,7 @@ You may need a UW account to see some of them, though.
 - [What does Alex K. Chen think of the field of Computer Science?](https://www.quora.com/Alex-K-Chen-topic/What-does-Alex-K-Chen-think-of-the-field-of-Computer-Science)
 
 
-### Atmospheric science
+## Atmospheric science
 
 - [What is it like to study Atmospheric Science at the University of Washington?](https://www.quora.com/What-is-it-like-to-study-Atmospheric-Science-at-the-University-of-Washington)
 In particular, Alex K. Chen says:
@@ -168,7 +170,7 @@ In particular, Alex K. Chen says:
 
 - This is slightly unrelated, but: [What are some good resources on astrobiology?](https://www.quora.com/What-are-some-good-resources-on-astrobiology) may be useful for those considering e.g. exoplanetary atmospheres.
 
-### Physics/Astronomy
+## Physics/Astronomy
 
 - [What is it like to study Physics at the University of Washington?](https://www.quora.com/University-of-Washington/What-is-it-like-to-study-Physics-at-the-University-of-Washington)
 
@@ -176,7 +178,7 @@ In particular, Alex K. Chen says:
 
 - [Alex K. Chen’s answer to What are some good websites and resources to learn about astronomy/astrophysics?](https://www.quora.com/What-are-some-good-websites-and-resources-to-learn-about-astronomy-astrophysics/answers/604575)
 
-### Math
+## Math
 
 - This question on Quora currently does not have extensive answers, but this may change in the future: [Why is applied math at the University of Washington top 10 in the nation while pure math is not even close to that?](https://www.quora.com/University-of-Washington/Why-is-applied-math-at-the-University-of-Washington-top-10-in-the-nation-while-pure-math-is-not-even-close-to-that)
 
@@ -184,6 +186,6 @@ In particular, Alex K. Chen says:
 
 - [How should a student independently studying math get help on exercises?](https://www.quora.com/How-should-a-student-independently-studying-math-get-help-on-exercises)
 
-### Thinking about graduate school
+## Thinking about graduate school
 
 - [Jean Yang’s page](http://jeanyang.com/) (see “Considering Graduate School?” near the bottom of the page.) See also this article by her about [MIT](https://medium.com/p/c6162458ef83).
