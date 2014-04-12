@@ -183,3 +183,7 @@ In particular, Alex K. Chen says:
 - [Can non-majors take a lot of math courses at the University of Washington?](https://www.quora.com/Can-non-majors-take-a-lot-of-math-courses-at-the-University-of-Washington)
 
 - [How should a student independently studying math get help on exercises?](https://www.quora.com/How-should-a-student-independently-studying-math-get-help-on-exercises)
+
+### Thinking about graduate school
+
+- [Jean Yang’s page](http://jeanyang.com/) (see “Considering Graduate School?” near the bottom of the page.) See also this article by her about [MIT](https://medium.com/p/c6162458ef83).
