@@ -3,6 +3,7 @@ color: #ffffff}
 
 body {
   box-sizing: border-box;
+  /*See http://ethanschoonover.com/solarized for the color values.*/
   color:#373737;
   background: #fdf6e3;
   font-color: #586e75;
